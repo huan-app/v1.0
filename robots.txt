@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://huan-app.github.io/v1.0/sitemap.xml

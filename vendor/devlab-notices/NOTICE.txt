@@ -1,0 +1,49 @@
+DevLab third-party browser assets
+
+The license texts listed below are in this directory. Links identify the
+upstream source versions used by DevLab.
+
+Diagrams
+
+The beautiful-mermaid browser bundle includes the following packages.
+
+beautiful-mermaid 1.1.3 (MIT)
+  License: beautiful-mermaid.txt
+  Source: https://github.com/lukilabs/beautiful-mermaid/tree/65f4e0ab8c289e9691a9e5bc4f9eac7108cf449b
+
+elkjs 0.11.1 (EPL-2.0)
+  License: elkjs.txt
+  The elkjs source is available under the Eclipse Public License 2.0.
+  Source: https://github.com/kieler/elkjs/tree/572e73323791d05f09b0815ff639af2b67f202ab
+  Eclipse Layout Kernel source linked by the elkjs 0.11.1 release:
+  https://github.com/eclipse-elk/elk/tree/c831ba4613dfd6b0055851193956560351d2f907
+
+entities 7.0.1 (BSD-2-Clause)
+  License: entities.txt
+  Source: https://github.com/fb55/entities/tree/994259f32eba1c822c16da075656f745c493c560
+
+Search
+
+Lunr Languages 1.22.0 (MPL-1.1)
+  License: lunr-languages.txt
+  The German, Russian and shared stemmer source files are available under
+  the Mozilla Public License 1.1 at this exact upstream revision:
+  https://github.com/MihaiValentin/lunr-languages/tree/41efd0e54bfd12e7ddee841ef9d80092d6aa7853
+
+ElasticLunr 0.9.6 (MIT), supplied by Zola when search indexing is enabled
+  License: elasticlunr.txt
+  Copyright (C) 2017 Oliver Nightingale and Wei Song, as credited in the asset.
+  Source: https://github.com/weixsong/elasticlunr.js/tree/83b3d3538d0a9295e59806c48786d10a049bddf5
+  Asset shipped in Zola 0.23.6:
+  https://github.com/getzola/zola/blob/v0.23.6/components/search/src/elasticlunr.min.js
+
+Icons
+
+Tabler Icons 3.48.0 (MIT), including the terminal geometry in the favicon
+  License: tabler-icons.txt
+  Source: https://github.com/tabler/tabler-icons/tree/0239805680a36bab4e1070529b6744924402d804
+
+Simple Icons 16.34.0 (CC0-1.0 for the library)
+  License: simple-icons.txt
+  Brand guidance: simple-icons-disclaimer.txt
+  Source: https://github.com/simple-icons/simple-icons/tree/dde88ab37611285a2bf1a7883c62be7e479794ba
